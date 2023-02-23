@@ -1,0 +1,75 @@
+[{
+
+        "name": "Dark in Death: An Eve Dallas Novel",
+        "author": "J. D. Robb",
+        "price": 24.00,
+        "descriptin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud xercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat.",
+        "publisher": "Seven Seas Entertainment, LLC",
+        "rating": 4,
+        "ebook": true,
+        "format": "handbook",
+        "category": "economy"
+
+    },
+    {
+        "name": "Dark in Death: An Eve Dallas Novel",
+        "author": "J. D. Robb",
+        "price": 38.00,
+        "descriptin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud xercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat.",
+        "publisher": "Seven Seas Entertainment, LLC",
+        "rating": 5,
+        "ebook": false,
+        "format": "book",
+        "category": "romance"
+    },
+    {
+        "name": "The Last Sister",
+        "author": "Conn Iggulden",
+        "price": 40,
+        "descriptin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud xercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat.",
+        "publisher": "Seven Seas Entertainment, LLC",
+        "rating": 4,
+        "ebook": false,
+        "format": "book",
+        "category": "art"
+    }, {
+
+        "name": "Foreman",
+        "author": "Conn Iggulden",
+        "price": 32,
+        "descriptin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud xercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat.",
+        "publisher": "Seven Seas Entertainment, LLC",
+        "rating": 4.5,
+        "ebook": true,
+        "format": "book",
+        "category": "succces"
+
+    }, {
+
+        "name": "Angry God",
+        "author": "L.J. Shen",
+        "price": 35,
+        "descriptin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud xercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat.",
+        "publisher": "NashreNovien",
+        "rating": 4.5,
+        "ebook": true,
+        "format": "paperback",
+        "category": "biography"
+
+    },
+    {
+
+        "name": "Broken Faith: Inside the Word of Faith…",
+        "author": "Edward Lee",
+        "price": 34,
+        "descriptin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud xercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat.",
+        "publisher": "NashreNovien",
+        "rating": 4,
+        "ebook": true,
+        "format": "hardback",
+        "category": "health"
+
+    }
+
+
+]

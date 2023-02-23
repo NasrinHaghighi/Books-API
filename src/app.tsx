@@ -3,7 +3,7 @@ const dotenv = require("dotenv");
 dotenv.config();
 require('./db/connect')
 //async error
-
+require('express-async-errors')
 const app:Application =express()
 const connectDB =require('./db/connect')
 const booksRouter=require('./routes/books')

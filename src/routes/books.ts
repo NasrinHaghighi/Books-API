@@ -1,10 +1,10 @@
 const express=require('express')
 const router = express.Router();
 
-import { CardList }from '../controllers/books'
+import {getAllBooks } from '../controllers/books'
 
 
-router.route('/').get(CardList)
+router.route('/').get(getAllBooks)
 
 
 module.exports = router ;
